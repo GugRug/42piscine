@@ -1,0 +1,6 @@
+Credentials cache: API:DCECF11F-B2A1-4684-8EDD-9A1A54C4EF4C
+        Principal: gumartin@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 19 09:07:06 2019  Nov 26 09:07:06 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 19 09:46:55 2019  Nov 26 09:07:06 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
